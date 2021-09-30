@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">workManager</string>
+    <string name="do_button">Do</string>
+</resources>
